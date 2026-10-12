@@ -42,7 +42,4 @@ Ejecutar los scripts SQL proporcionados en la raíz del proyecto en el siguiente
 
 Configurar las credenciales de conexión en la clase del paquete `config`.
 
-### 2. Ejecución de la Aplicación
-1. Clonar el repositorio:
-   ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+
